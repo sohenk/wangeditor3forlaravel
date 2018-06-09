@@ -1,0 +1,19 @@
+{
+    "name": "sohenk/wangeditor",
+    "description": "wangeditor3 for laravel5.suport qiniu,storage upload",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sohenk",
+            "email": "sohenk@itmin.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "sohenk\\WangEditor\\": "src/"
+        }
+    },
+    "require": {
+        "sohenk/wangeditor": "dev-master"
+    }
+}
