@@ -1,14 +1,14 @@
 <?php
 
 /*
- * This file is part of the seaony/wangeditor.
+ * This file is part of the sohenk/wangeditor.
  *
- * (c) seaony <seaony@seaony.cn>
+ * (c) sohenk <sohenk@itmin.cn>
  *
  * This source file is subject to the MIT license that is bundled
  * with this source code in the file LICENSE.
  */
-namespace Seaony\WangEditor;
+namespace Sohenk\WangEditor;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
